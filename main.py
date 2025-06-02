@@ -2,8 +2,8 @@ from grafik import Window
 from cell import Cell, Maze
 
 def main():
-    num_rows = 12
-    num_cols = 16
+    num_rows = 15
+    num_cols = 15
     margin = 50
     screen_x = 800
     screen_y = 600
